@@ -1,9 +1,9 @@
 # Olá! Eu sou o Alison Melo 👋
 
 ### 👨‍💻 Sobre mim
-Sou um profissional de tecnologia com forte foco em **Infraestrutura e DevOps**. Meu objetivo principal é criar, automatizar e manter ambientes resilientes e escaláveis. Tenho experiência prática com gestão e monitoramento de infraestrutura e estou constantemente evoluindo minhas habilidades em orquestração de containers, CI/CD e Infraestrutura como Código (IaC).
+Sou um profissional de tecnologia com mais de 19 anos de experiência com forte foco em **Infraestrutura**. Meu objetivo principal é criar, automatizar e manter ambientes resilientes e escaláveis. Tenho experiência prática com implantação, gestão e monitoramento e estou constantemente evoluindo minhas habilidades em orquestração de containers, CI/CD e Infraestrutura como Código (IaC).
 
-- 🔭 Atualmente focando em: **Git, Docker, Automação de CI/CD, Kubernetes e Terraform e Cloud.**
+- 🔭 Atualmente focando em: **Integração On-Premises & Cloud, Git, Docker, Automação de CI/CD, Kubernetes e Terraform e Cloud.**
 - 🌱 Buscando sempre: Otimizar processos invisíveis para entregar resultados visíveis e de alta disponibilidade.
 
 ---
