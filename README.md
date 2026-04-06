@@ -31,19 +31,6 @@ Sou um profissional de tecnologia com mais de 19 anos de experiência com forte 
 
 ---
 
-### 🚀 Projetos em Destaque
-
-* **[Network Topology Mapper](https://github.com/alison-melo/network-topology-mapper)**
-    *Meu projeto mais robusto de CI/CD. Configurei um pipeline automatizado completo onde o código desenvolvido localmente passa por build, criação de imagem Docker e push automático para o GitHub Container Registry (GHCR) a cada atualização.*
-
-* **[Docker Zabbix Stack](https://github.com/alison-melo/docker-zabbix-stack)**
-    *Stack completa rodando Zabbix, Grafana e MySQL orquestrada via Docker Compose, demonstrando integração de containers para monitoramento de infraestrutura.*
-
-* **[Deploy Apache HTTPD](https://github.com/alison-melo/dio_proj_docker)**
-    *Projeto prático de containerização focada em servidores web.*
-  
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisonmelo/)
